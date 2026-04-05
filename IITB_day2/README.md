@@ -24,3 +24,4 @@ python main.py
 - Speed tracking
 - License plate recognition
 - Automated fine system
+For working setup check working.md
