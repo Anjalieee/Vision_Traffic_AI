@@ -1,14 +1,3 @@
-Attachment Resume_Anjali_Sawant.pdf added.None selected
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-Conversations
-7% of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 7 minutes ago
-Details
 # VisionTrafficAI
 
 > **Phase 1 — Automated Image Scraping Pipeline**
